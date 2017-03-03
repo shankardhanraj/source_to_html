@@ -1,0 +1,31 @@
+.reserved_key1{
+   		color:green;
+	      }
+.reserved_key2{
+    		color:brown;
+	      }
+.comment{
+    		color:mediumblue;
+        }
+.preprocess_dir{
+    		color:purple;
+	       }
+.header_file{
+    		color:red;
+	    }
+.string{
+    	 	color:darkorange;
+       }
+.numeric_constant{
+    		 color:darkorange;
+	        }
+.ascii_char{
+    		 color:darkorange;
+	        }
+.code{
+    		 color:darkslategrey;
+	        }
+.regular_exp{
+    		 color:darkblue;
+	        }
+
